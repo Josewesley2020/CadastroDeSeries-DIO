@@ -1,0 +1,16 @@
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/wesley/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/wesley/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/wesley/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/wesley/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/wesley/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/wesley/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/wesley/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/wesley/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/wesley/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
