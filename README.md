@@ -30,7 +30,7 @@
 
 
 
-![VER PUBLICAÇÃO NO LINKEDIN](https://www.linkedin.com/posts/jos%C3%A9-wesley-da-silva-220376200_grupogft-digitalinnovationone-activity-6814617477356556288-dK-i)
+[VER PUBLICAÇÃO NO LINKEDIN](https://www.linkedin.com/posts/jos%C3%A9-wesley-da-silva-220376200_grupogft-digitalinnovationone-activity-6814617477356556288-dK-i)
 
 
 <br>
