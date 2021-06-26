@@ -2,11 +2,25 @@
 # Cadastro De Séries
 <br>
 
-### Crud desenvolvido durante Bootcamp " GFT START #2 .NET " na plataforma Digital Innovation One.
+### " GFT START #2 .NET " na plataforma Digital Innovation One.
 
 <img src="https://raw.githubusercontent.com/Josewesley2020/CadastroDeSeries-DIO/main/Assets-Readme/Captura%20de%20tela%20de%202021-06-26%2002-16-11.png" width="600" height="300">
 
-Atualizações;
+### Aplicação console desenvolvida em C# com framework .NET. 
+
+
+  * Listar Séries 
+  * Inserir nova série
+  * Atualizar série
+  * Excluir série
+  * Visualizar série
+  * limpar tela
+  * Sair
+
+
+<br>
+
+### Atualizações;
 * Botão de favoritar 
 * Dupla confirmação para exclusão de séries 
 
