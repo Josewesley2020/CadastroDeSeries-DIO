@@ -29,6 +29,10 @@
 ### <img src="https://raw.githubusercontent.com/Josewesley2020/Josewesley2020/main/imagens/Outras/youtube-play-icone-removebg-preview.png" width="45" height="25">Video Demostrativo 
 
 
+
+![VER PUBLICAÇÃO NO LINKEDIN](https://www.linkedin.com/posts/jos%C3%A9-wesley-da-silva-220376200_grupogft-digitalinnovationone-activity-6814617477356556288-dK-i)
+
+
 <br>
 <br>
 <br>
